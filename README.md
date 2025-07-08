@@ -1,35 +1,36 @@
-# 🔐 Password Generator (Tkinter GUI)
+# 🔐 Password Generator - GUI Desktop App
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Bikash07-git/PasswordGenerator)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Bikash07-git/PasswordGenerator)
 ![GitHub top language](https://img.shields.io/github/languages/top/Bikash07-git/PasswordGenerator)
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 
-A modern password generator built with Python and CustomTkinter. Generate strong passwords, check their strength, and copy them with a click!
+A sleek and modern password generator built with **Python** and **CustomTkinter**, featuring a strength meter, clipboard copy, regenerate button, and save-to-file functionality.
 
 ---
 
 ## 🧠 Features
 
-- ✅ Custom password length (letters, numbers, symbols)
-- ✅ Password strength meter (Weak / Medium / Strong)
-- ✅ Save passwords to file with timestamp
-- ✅ Copy to clipboard button
-- ✅ Beautiful UI with `customtkinter`
+- ✅ Generate strong passwords with letters, numbers, and symbols
+- ✅ Real-time password strength meter (Weak / Medium / Strong)
+- ✅ Copy password to clipboard instantly
+- ✅ Regenerate button for quick reset
+- ✅ Save generated password to a `.txt` file
+- ✅ Clean and modern GUI with `customtkinter`
 
 ---
 
-## 🖥️ Screenshot
+## 🖼️ Screenshot
 
-<img src="assets/screenshot.png" width="500">
+<img src="assets/screenshot.png" width="500" alt="Password Generator GUI Screenshot">
 
 ---
 
 ## 🚀 Getting Started
 
-### 🔧 Prerequisites
+### 🔧 Requirements
 
-- Python 3.10+
+- Python 3.10 or higher
 - Install required libraries:
 
 ```bash
