@@ -1,0 +1,6 @@
+*.py linguist-detectable=true
+*.exe linguist-documentation
+*.ico linguist-documentation
+*.png linguist-documentation
+*.txt linguist-documentation
+*.md linguist-documentation

@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore PyInstaller output
+build/
+dist/
+*.spec
+*.exe
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore your saved passwords
+passwords.txt
