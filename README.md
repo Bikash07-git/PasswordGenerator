@@ -35,3 +35,21 @@ A sleek and modern password generator built with **Python** and **CustomTkinter*
 
 ```bash
 pip install -r requirements.txt
+<<<<<<< HEAD
+=======
+python password_generator.py
+
+## 📁 Project Structure
+```
+PasswordGenerator/
+├── password_generator.py       # Main app script
+├── requirements.txt            # Dependencies
+├── README.md                   # Documentation
+├── .gitignore                  # Ignore build/cache files
+├── .gitattributes              # Language stats fix
+├── assets/
+│   └── screenshot.png          # App screenshot
+└── passwords.txt               # Saved passwords (auto-generated)
+```
+
+>>>>>>> 09bbada (📁 Added project structure section to README)
